@@ -1,7 +1,7 @@
 # Kafka
 
-Master: [![Build Status](https://travis-ci.org/ansible-city/kafka.svg?branch=master)](https://travis-ci.org/ansible-city/kafka)  
-Develop: [![Build Status](https://travis-ci.org/ansible-city/kafka.svg?branch=develop)](https://travis-ci.org/ansible-city/kafka)
+Master: [![Build Status](https://travis-ci.org/jpbarto/kafka.svg?branch=master)](https://travis-ci.org/jpbarto/kafka)  
+Develop: [![Build Status](https://travis-ci.org/jpbarto/kafka.svg?branch=develop)](https://travis-ci.org/jpbarto/kafka)
 
 * [ansible.cfg](#ansible-cfg)
 * [Installation and Dependencies](#installation-and-dependencies)
@@ -38,8 +38,8 @@ To install run `ansible-galaxy install ansible-city.kafka` or add this to your
 `roles.yml`
 
 ```YAML
-- name: ansible-city.kafka
-  version: v1.0
+- name: jpbarto.kafka
+  version: v1.0.4
 ```
 
 and run `ansible-galaxy install -p ./roles -r roles.yml`
