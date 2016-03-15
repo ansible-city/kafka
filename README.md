@@ -1,7 +1,7 @@
 # Kafka
 
-Master: [![Build Status](https://travis-ci.org/ansible-city/kafka.svg?branch=master)](https://travis-ci.org/ansible-city/kafka)  
-Develop: [![Build Status](https://travis-ci.org/ansible-city/kafka.svg?branch=develop)](https://travis-ci.org/ansible-city/kafka)
+Master: [![Build Status](https://travis-ci.org/jpbarto/kafka.svg?branch=master)](https://travis-ci.org/jpbarto/kafka)  
+Develop: [![Build Status](https://travis-ci.org/jpbarto/kafka.svg?branch=develop)](https://travis-ci.org/jpbarto/kafka)
 
 * [ansible.cfg](#ansible-cfg)
 * [Installation and Dependencies](#installation-and-dependencies)
